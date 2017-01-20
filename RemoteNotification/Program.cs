@@ -1,7 +1,7 @@
-﻿namespace RemoteNotification
-{
-    using System.ServiceProcess;
+﻿using System.ServiceProcess;
 
+namespace RemoteNotification
+{
     class Program
     {
         static void Main()

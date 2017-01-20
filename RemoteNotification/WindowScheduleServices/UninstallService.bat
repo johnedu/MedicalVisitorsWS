@@ -1,6 +1,6 @@
 @ECHO off
 REM Enter the folder contains setup files
-SET SERVICE_EXE_PATH="C:\Users\newshore manizales\Documents\Datos\Personal\Proyectos\RemoteNotification - New\RemoteNotification\bin\Debug\RemoteNotification.exe"
+SET SERVICE_EXE_PATH="C:\Users\Administrator\Documents\Projects\RemoteNotification\MedicalVisitorsWS\RemoteNotification\bin\Debug\RemoteNotification.exe"
 
 REM the following directory is for .NET version
 SET INSTALL_UTIL_HOME=%WINDIR%"\Microsoft.NET\Framework\v"
